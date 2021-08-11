@@ -78,14 +78,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
+<div style="display: flex; flex-wrap: wrap;">
 <p>
     <img align="left" style="margin: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharrastogi9897&show_icons=true&locale=en&layout=compact" alt="tusharrastogi9897" />
 </p>
 
 <p>
-    &nbsp;
     <img align="center" style="margin: 15px;" src="https://github-readme-stats.vercel.app/api?username=tusharrastogi9897&show_icons=true&locale=en" alt="tusharrastogi9897" />
 </p>
+</div>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrastogi9897&" alt="tusharrastogi9897" />
