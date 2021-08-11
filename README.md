@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Tushar Rastogi</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<p align="center" style="margin: 10px;">
+<p align="center" style="margin: 15px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=tusharrastogi9897" alt="tusharrastogi9897" />
     </a>
@@ -78,15 +78,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-<p>
-    <img align="left" style="margin: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharrastogi9897&show_icons=true&locale=en&layout=compact" alt="tusharrastogi9897" />
-</p>
+<div style="display: flex; flex-direction: row; margin-bottom: 20px;">
+    <img align="left" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharrastogi9897&show_icons=true&locale=en&layout=compact" alt="tusharrastogi9897" />
+    <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=tusharrastogi9897&show_icons=true&locale=en" alt="tusharrastogi9897" />
+</div>
 
-<p>
-    &nbsp;
-    <img align="center" style="margin: 15px;" src="https://github-readme-stats.vercel.app/api?username=tusharrastogi9897&show_icons=true&locale=en" alt="tusharrastogi9897" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrastogi9897&" alt="tusharrastogi9897" />
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrastogi9897&" alt="tusharrastogi9897" />
 </p>
