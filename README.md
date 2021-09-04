@@ -3,7 +3,7 @@
 
 <p align="center" style="margin: 15px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tusharrastogi9897" alt="tusharrastogi9897" />
+        <img src="https://github-profile-trophy.vercel.app/?username=tusharrastogi9897&theme=dark" alt="tusharrastogi9897" />
     </a>
 </p>
 
@@ -79,10 +79,10 @@
 </p>
 
 <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-    <img align="left" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharrastogi9897&show_icons=true&locale=en&layout=compact" alt="tusharrastogi9897" />
-    <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=tusharrastogi9897&show_icons=true&locale=en" alt="tusharrastogi9897" />
+    <img align="left" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharrastogi9897&show_icons=true&locale=en&layout=compact&theme=dark" alt="tusharrastogi9897" />
+    <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=tusharrastogi9897&show_icons=true&locale=en&theme=dark" alt="tusharrastogi9897" />
 </div>
 
 <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrastogi9897&" alt="tusharrastogi9897" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrastogi9897&theme=dark" alt="tusharrastogi9897" />
 </p>
