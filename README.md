@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **doctor's shopify platform**
 
-- 🌱 I’m currently learning **blockchain system**
-
-- 👯 I’m looking to collaborate on **ai projects based on React**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **backend / deployment**
 
