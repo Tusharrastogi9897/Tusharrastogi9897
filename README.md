@@ -1,21 +1,24 @@
-<h1 align="center">Hello There 👋, I'm Tushar Rastogi</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h1 align="left">Hello There 👋, I'm Tushar Rastogi</h1>
+<h3 align="left">A Full Stack Engineer</h3>
+<h4 align="left">Experienced Full Stack Engineer skilled in front-end, back-end, and deployment technologies, with proficiency in various programming languages and database management. Proven track record in developing innovative web applications and solutions. Strong problem-solving abilities, adept at collaborating with cross-functional teams, and passionate about staying updated on industry trends and technologies.</h3>
 
-<p align="center" style="margin: 15px;">
+<p align="left" style="margin: 15px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=tusharrastogi9897&theme=dark" alt="tusharrastogi9897" />
     </a>
 </p>
 
-- 🔭 I’m currently working on **doctor's shopify platform**
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **backend / deployment**
+- 💬 Ask me about **frontend / backend / deployment**
 
 - 📫 How to reach me **rastogitushar07@gmail.com**
 
+- 📄 You can check my <a href="https://www.linkedin.com/in/tushar-rastogi-a142611b4/">**LinkedIn**</a> for more details about **work experience**.
+
 - ⚡ Fun fact **I like anything relates to Technology**
+
+- 👨🏻‍💻 Checkout My Resume - <a href="https://drive.google.com/file/d/1hZSWzpP8kW0N5b4qgBUlgIHgNml3FdKt/view?usp=drive_link" target="_blank">**Click Here**</a>
 
 
 <h3 align="left" style="margin-bottom: 20px;">Languages and Tools:</h3>
@@ -67,12 +70,11 @@
     <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
-
 <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
     <img align="left" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharrastogi9897&show_icons=true&locale=en&layout=compact&theme=dark" alt="tusharrastogi9897" />
-    <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=tusharrastogi9897&show_icons=true&locale=en&theme=dark" alt="tusharrastogi9897" />
+    <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=tusharrastogi9897&&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" alt="tusharrastogi9897" />
 </div>
 
-<p align="left">
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrastogi9897&theme=dark" alt="tusharrastogi9897" />
-</p>
+</div>
