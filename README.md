@@ -18,9 +18,6 @@
 
 - ⚡ Fun fact **I like anything relates to Technology**
 
-- 👨🏻‍💻 Checkout My Resume - <a href="https://drive.google.com/file/d/1hZSWzpP8kW0N5b4qgBUlgIHgNml3FdKt/view?usp=drive_link" target="_blank">**Click Here**</a>
-
-
 <h3 align="left" style="margin-bottom: 20px;">Languages and Tools:</h3>
 <p align="left" style="margin-bottom: 20px;"> 
     <a href="https://aws.amazon.com" target="_blank">
